@@ -15,3 +15,17 @@ I love sports, books, and movies.
 ## News
 
 - **[Dec. 2023]** Our paper about zero-short learning is accpeted to IEEE/IFIP NOMS 2024.
+
+
+## Recent Publications
+
+- **NPRA: A Novel Predictive Resource Allocation Mechanism for Next Generation Network Slicing**
+  <br>
+  **Wu Binghui**; Nalam Venkata Abhishek; Amogh PC; Mohan Gurusamy
+  <br>
+  EuroP4'23. 
+  <br>
+  [[Paper](https://drive.google.com/file/d/1U9C9Yk6lpwzeACQWyFKihsFIUCL3ipld/view?usp=drive_link)]
+  [[Page](https://ieeexplore.ieee.org/abstract/document/10060670)]
+  <br>
+  First author.
