@@ -17,6 +17,6 @@ I love sports, books, and movies.
 - **[Dec. 2023]** Our paper about zero-short learning is accpeted to IEEE/IFIP NOMS 2024.
 
 
-{% include_relative _includes/publications.md %}
+##{% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+##{% include_relative _includes/services.md %}
