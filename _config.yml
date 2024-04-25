@@ -13,14 +13,14 @@ description: Bingui Wu | PhD Student
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?hl=zh-CN&user=BtQr_bcAAAAJ
-cv_link: assets/files/curriculum_vitae.pdf
+cv_link: assets/files/New_version_Resume_April_2024.pdf
 github_link: https://github.com/Binghui99
 linkedin: https://www.linkedin.com/in/binghui-wu-83883718a/
 # twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/myphoto3.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
