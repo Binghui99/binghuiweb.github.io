@@ -23,9 +23,7 @@ I love sports, books, and movies.
   <br>
   **Wu Binghui**; Nalam Venkata Abhishek; Amogh PC; Mohan Gurusamy
   <br>
-  EuroP4'23. 
+  IEEE CCNC 2023 
   <br>
   [[Paper](https://drive.google.com/file/d/1U9C9Yk6lpwzeACQWyFKihsFIUCL3ipld/view?usp=drive_link)]
   [[Page](https://ieeexplore.ieee.org/abstract/document/10060670)]
-  <br>
-  First author.
