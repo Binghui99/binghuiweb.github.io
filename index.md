@@ -27,3 +27,13 @@ I love sports, books, and movies.
   <br>
   [[Paper](https://drive.google.com/file/d/1U9C9Yk6lpwzeACQWyFKihsFIUCL3ipld/view?usp=drive_link)]
   [[Page](https://ieeexplore.ieee.org/abstract/document/10060670)]
+
+
+- **D3T: Double Deep Q-Network Decision Transformer for Service Function Chain Placement**
+  <br>
+  **Wu Binghui**; Dongbo Chen; Nalam Venkata Abhishek; Mohan Gurusamy
+  <br>
+  IEEE HPSR 2023 
+  <br>
+  [[Paper](https://drive.google.com/file/d/1U9C9Yk6lpwzeACQWyFKihsFIUCL3ipld/view?usp=drive_link)]
+  [[Page](https://ieeexplore.ieee.org/abstract/document/10147969)]
