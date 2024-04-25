@@ -51,3 +51,16 @@ I love sports, books, and movies.
 
 
 
+## Teaching
+
+- [[Fall'23](https://drive.google.com/file/d/1mSUcTZn2I7Kp_Je31WSP0AV3YhfF4-hB/view?usp=drive_link)] EE4204 Computer Networks (w/ [Prof. Mohan Gurusamy](https://cde.nus.edu.sg/ece/staff/mohan-gurusamy/))
+
+- [[Winter'23](https://drive.google.com/file/d/16x2lIx5ttwGbu8y4VfJ8j_kLSD7o8cO5/view?usp=share_link)] 
+EE5021 Cloud based Services for Internet of Things (w/ [Prof. Mohan Gurusamy](https://cde.nus.edu.sg/ece/staff/mohan-gurusamy/) and [Mohan]([https://www.comp.nus.edu.sg/~jithin/](https://cde.nus.edu.sg/ece/staff/mohan-gurusamy/)))
+
+- [[Fall'22](https://drive.google.com/file/d/1eo8T4XvxonI7Ys2IoD19Ocn7yWvPeTZ_/view?usp=sharing)] EE5134 Optical Communications and Network (w/ [Prof. Mohan Gurusamy](https://cde.nus.edu.sg/ece/staff/mohan-gurusamy/))
+
+- [[Winter'22](https://drive.google.com/file/d/1zx438PuWai7zmdqEahyCVPN1RibwK1Qq/view?usp=sharing)] 
+CEG5101 Modern Computer Networking (w/ [Prof. Mohan Gurusamy](https://cde.nus.edu.sg/ece/staff/mohan-gurusamy/))
+
+
