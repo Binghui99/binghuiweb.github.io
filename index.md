@@ -4,13 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at National University of Singapore. My research interests are network security, network traffic analysis, artificial intelligence, and Trustworthy Machine Learning.
-I love sports, books, and movies.
+I am a Ph.D. student in the [Electrical and Computer Engineering](https://cde.nus.edu.sg/ece/) at the National University of Singapore (NUS), advised by [Prof. Mohan Gurusamy](https://cde.nus.edu.sg/ece/staff/mohan-gurusamy/) and [Dr. Dinil Mon Divakaran](https://www.dinil.net/).
 
 ## Research Interests
 
-- **Network Security:** IoT fingerprinting, website fingerprinting, anomaly detection, trustworthy AI
-- **Machine Learning:** sequence model, few-shot and zero-shot learning, incremental learning, transfer learning
+- **Network Security:** IoT fingerprinting, website fingerprinting, anomaly detection, 
+- **Machine Learning:** sequence model, few-shot and zero-shot learning, trustworthy AI, incremental learning, transfer learning
 
 ## News
 
@@ -37,7 +36,7 @@ I love sports, books, and movies.
   <br>
   IEEE HPSR 2023 
   <br>
-  [[Paper](https://drive.google.com/file/d/1U9C9Yk6lpwzeACQWyFKihsFIUCL3ipld/view?usp=drive_link)]
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10147969))]
   [[Page](https://ieeexplore.ieee.org/abstract/document/10147969)]
 
 - **NPRA: A Novel Predictive Resource Allocation Mechanism for Next Generation Network Slicing**
@@ -46,21 +45,21 @@ I love sports, books, and movies.
   <br>
   IEEE CCNC 2023 
   <br>
-  [[Paper](https://drive.google.com/file/d/1U9C9Yk6lpwzeACQWyFKihsFIUCL3ipld/view?usp=drive_link)]
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10060670)]
   [[Page](https://ieeexplore.ieee.org/abstract/document/10060670)]
 
 
 
 ## Teaching
 
-- [[Fall'24, Winter'24](https://drive.google.com/file/d/1mSUcTZn2I7Kp_Je31WSP0AV3YhfF4-hB/view?usp=drive_link)] EE4204 Computer Networks (w/ [Prof. Mohan Gurusamy](https://cde.nus.edu.sg/ece/staff/mohan-gurusamy/))
+- [[Fall'24, Winter'24]] EE4204 Computer Networks (w/ [Prof. Mohan Gurusamy](https://cde.nus.edu.sg/ece/staff/mohan-gurusamy/) and [Prof. Mehul Motani](https://cde.nus.edu.sg/ece/staff/mehul-motani/))
 
-- [[Winter'24](https://drive.google.com/file/d/16x2lIx5ttwGbu8y4VfJ8j_kLSD7o8cO5/view?usp=share_link)] 
-EE5021 Cloud based Services for Internet of Things (w/ [Prof. Mohan Gurusamy](https://cde.nus.edu.sg/ece/staff/mohan-gurusamy/) and [Mohan]([https://www.comp.nus.edu.sg/~jithin/](https://cde.nus.edu.sg/ece/staff/mohan-gurusamy/)))
+- [[Winter'24]] 
+EE5021 Cloud based Services for Internet of Things (w/ [Prof. Mohan Gurusamy](https://cde.nus.edu.sg/ece/staff/mohan-gurusamy/))
 
-- [[Winter'24](https://drive.google.com/file/d/1eo8T4XvxonI7Ys2IoD19Ocn7yWvPeTZ_/view?usp=sharing)] EE5134 Optical Communications and Network (w/ [Prof. Mohan Gurusamy](https://cde.nus.edu.sg/ece/staff/mohan-gurusamy/))
+- [[Winter'24]] EE5134 Optical Communications and Network (w/ [Prof. Mohan Gurusamy](https://cde.nus.edu.sg/ece/staff/mohan-gurusamy/))
 
-- [[Fall'24, Winter'24](https://drive.google.com/file/d/1zx438PuWai7zmdqEahyCVPN1RibwK1Qq/view?usp=sharing)] 
+- [[Fall'24, Winter'24]] 
 CEG5101 Modern Computer Networking (w/ [Prof. Mohan Gurusamy](https://cde.nus.edu.sg/ece/staff/mohan-gurusamy/))
 
 
