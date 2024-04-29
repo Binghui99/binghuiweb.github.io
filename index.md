@@ -37,7 +37,7 @@ I am a Ph.D. student in the [Electrical and Computer Engineering](https://cde.nu
   <br>
   IEEE HPSR 2023 
   <br>
-  [[Paper](https://drive.google.com/file/d/1nPp_TBMvYnbv_Ms6Vg-HLodOGQWHWRjj/view?usp=sharing))]
+  [[Paper](https://drive.google.com/file/d/1nPp_TBMvYnbv_Ms6Vg-HLodOGQWHWRjj/view?usp=sharing)]
   [[Page](https://ieeexplore.ieee.org/abstract/document/10147969)]
 
 - **NPRA: A Novel Predictive Resource Allocation Mechanism for Next Generation Network Slicing**
