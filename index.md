@@ -4,7 +4,8 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in the [Electrical and Computer Engineering](https://cde.nus.edu.sg/ece/) at the National University of Singapore (NUS), advised by [Prof. Mohan Gurusamy](https://cde.nus.edu.sg/ece/staff/mohan-gurusamy/) and [Dr. Dinil Mon Divakaran](https://www.dinil.net/).
+I am a Ph.D. student in the [Electrical and Computer Engineering](https://cde.nus.edu.sg/ece/) at the National University of Singapore (NUS), advised by [Prof. Mohan Gurusamy](https://cde.nus.edu.sg/ece/staff/mohan-gurusamy/) and [Dr. Dinil Mon Divakaran](https://www.dinil.net/). I enjoy reading books, watching movies, and playing badminton. The final goal of my life is to have a kind a loving heart. 
+
 
 ## Research Interests
 
@@ -24,7 +25,7 @@ I am a Ph.D. student in the [Electrical and Computer Engineering](https://cde.nu
   <br>
   IEEE/IFIP NOMS 2024 
   <br>
-  [[Paper](https://arxiv.org/pdf/2310.08036.pdf)]
+  [[Paper](https://drive.google.com/file/d/1yF6F47R_1AhOs3sw8REVj_S2_5bEqUSz/view?usp=sharing)]
   [[Page](https://arxiv.org/abs/2310.08036)]
   [[Code](https://github.com/Binghui99/ZEST)]
 
@@ -36,7 +37,7 @@ I am a Ph.D. student in the [Electrical and Computer Engineering](https://cde.nu
   <br>
   IEEE HPSR 2023 
   <br>
-  [[Paper](https://ieeexplore.ieee.org/abstract/document/10147969))]
+  [[Paper](https://drive.google.com/file/d/1nPp_TBMvYnbv_Ms6Vg-HLodOGQWHWRjj/view?usp=sharing))]
   [[Page](https://ieeexplore.ieee.org/abstract/document/10147969)]
 
 - **NPRA: A Novel Predictive Resource Allocation Mechanism for Next Generation Network Slicing**
@@ -45,7 +46,7 @@ I am a Ph.D. student in the [Electrical and Computer Engineering](https://cde.nu
   <br>
   IEEE CCNC 2023 
   <br>
-  [[Paper](https://ieeexplore.ieee.org/abstract/document/10060670)]
+  [[Paper](https://drive.google.com/file/d/1MdcpmFcZ2j7lDfg23bHDKtgZEfKouFe-/view?usp=sharing)]
   [[Page](https://ieeexplore.ieee.org/abstract/document/10060670)]
 
 
