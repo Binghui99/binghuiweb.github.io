@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in the [Electrical and Computer Engineering](https://cde.nus.edu.sg/ece/) at the National University of Singapore (NUS), advised by [Prof. Mohan Gurusamy](https://cde.nus.edu.sg/ece/staff/mohan-gurusamy/) and [Dr. Dinil Mon Divakaran](https://www.dinil.net/). I enjoy reading books, watching movies, and playing badminton. The final goal of my life is to have a kind a loving heart. 
+I am a Ph.D. student in the [Electrical and Computer Engineering](https://cde.nus.edu.sg/ece/) at the National University of Singapore (NUS), advised by [Prof. Mohan Gurusamy](https://cde.nus.edu.sg/ece/staff/mohan-gurusamy/) and [Dr. Dinil Mon Divakaran](https://www.dinil.net/). I enjoy reading books, watching movies, and playing badminton. The final goal of my life is to have a kind and loving heart. 
 
 
 ## Research Interests
