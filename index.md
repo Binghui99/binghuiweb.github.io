@@ -26,7 +26,7 @@ I am a Ph.D. student in the [Electrical and Computer Engineering](https://cde.nu
   IEEE/IFIP NOMS 2024 
   <br>
   [[Paper](https://drive.google.com/file/d/1yF6F47R_1AhOs3sw8REVj_S2_5bEqUSz/view?usp=sharing)]
-  [[Page](https://arxiv.org/abs/2310.08036)]
+  [[Page](https://ieeexplore.ieee.org/abstract/document/10575079)]
   [[Code](https://github.com/Binghui99/ZEST)]
 
 
