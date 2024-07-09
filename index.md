@@ -53,14 +53,14 @@ I am a Ph.D. student in the [Electrical and Computer Engineering](https://cde.nu
 
 ## Teaching
 
-- [[Fall'24, Winter'24]] EE4204 Computer Networks (w/ [Prof. Mohan Gurusamy](https://cde.nus.edu.sg/ece/staff/mohan-gurusamy/) and [Prof. Mehul Motani](https://cde.nus.edu.sg/ece/staff/mehul-motani/))
+- [[2023-now]] EE4204 Computer Networks (w/ [Prof. Mohan Gurusamy](https://cde.nus.edu.sg/ece/staff/mohan-gurusamy/) and [Prof. Mehul Motani](https://cde.nus.edu.sg/ece/staff/mehul-motani/))
 
 - [[Winter'24]] 
 EE5021 Cloud based Services for Internet of Things (w/ [Prof. Mohan Gurusamy](https://cde.nus.edu.sg/ece/staff/mohan-gurusamy/))
 
 - [[Winter'24]] EE5134 Optical Communications and Network (w/ [Prof. Mohan Gurusamy](https://cde.nus.edu.sg/ece/staff/mohan-gurusamy/))
 
-- [[Fall'24, Winter'24]] 
+- [[2023-now]] 
 CEG5101 Modern Computer Networking (w/ [Prof. Mohan Gurusamy](https://cde.nus.edu.sg/ece/staff/mohan-gurusamy/))
 
 
