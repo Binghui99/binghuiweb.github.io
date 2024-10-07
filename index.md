@@ -11,6 +11,7 @@ I am a Ph.D. student in the [Electrical and Computer Engineering](https://cde.nu
 
 - **Network Security:** IoT fingerprinting, website fingerprinting, anomaly detection, 
 - **Machine Learning:** sequence model, few-shot and zero-shot learning, trustworthy AI, incremental learning, transfer learning
+- **Network Management:** Network traffic analysis, resource allocation
 
 ## News
 
