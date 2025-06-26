@@ -14,7 +14,7 @@ I am a Ph.D. student in the [Electrical and Computer Engineering](https://cde.nu
 - **Network Management:** Network traffic analysis, resource allocation
 
 ## News
-- **[June.2025]** Our paper about Unified Multi-granular Traffic Modeling Framework is accpeted to IEEE Transactions on Cognitive Communications and Networking
+- **[June.2025]** Our paper about Unified Multi-granular Traffic Modeling Framework is accpeted to IEEE Transactions on Cognitive Communications and Networking 2025
 
 
 ## Recent Publications
@@ -23,7 +23,7 @@ I am a Ph.D. student in the [Electrical and Computer Engineering](https://cde.nu
   <br>
   **Wu Binghui**; Dinil Mon Divakaran, Mohan Gurusamy
   <br>
-  IEEE Transactions on Cognitive Communications and Networking 
+  IEEE Transactions on Cognitive Communications and Networking 2025
 - **ZEST: Attention-based Zero-Shot Learning for Unseen IoT Device Classification**
   <br>
   **Wu Binghui**; Philipp Gysel, Dinil Mon Divakaran, Mohan Gurusamy
