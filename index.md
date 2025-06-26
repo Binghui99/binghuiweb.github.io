@@ -14,12 +14,16 @@ I am a Ph.D. student in the [Electrical and Computer Engineering](https://cde.nu
 - **Network Management:** Network traffic analysis, resource allocation
 
 ## News
-
-- **[Dec. 2023]** Our paper about zero-short learning is accpeted to IEEE/IFIP NOMS 2024.
+- **[June.2025]** Our paper about Unified Multi-granular Traffic Modeling Framework is accpeted to IEEE Transactions on Cognitive Communications and Networking
 
 
 ## Recent Publications
 
+- **A Unified Multi-granular Traffic Modeling Framework for Network Security**
+  <br>
+  **Wu Binghui**; Dinil Mon Divakaran, Mohan Gurusamy
+  <br>
+  IEEE Transactions on Cognitive Communications and Networking 
 - **ZEST: Attention-based Zero-Shot Learning for Unseen IoT Device Classification**
   <br>
   **Wu Binghui**; Philipp Gysel, Dinil Mon Divakaran, Mohan Gurusamy
